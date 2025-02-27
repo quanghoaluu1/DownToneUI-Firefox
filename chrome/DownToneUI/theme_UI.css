@@ -57,10 +57,10 @@
   /* Unique to userChrome.css */
   --toolbar-color-scheme: var(--dtui-theme-color-scheme) !important;
   --tab-selected-color-scheme: var(--dtui-theme-color-scheme) !important;
-  --lwt-accent-color: rgb(var(--dtui-theme-main-color)) !important;
-  --lwt-accent-color-inactive: rgb(var(--dtui-theme-main-color)) !important;
-  --lwt-toolbar-field-highlight: rgb(var(--dtui-theme-accent-color)) !important;
-  --lwt-tab-line-color: rgb(var(--dtui-theme-accent-color)) !important;
+  --lwt-accent-color: red !important;
+  --lwt-accent-color-inactive: red !important;
+  --lwt-toolbar-field-highlight: red !important;
+  --lwt-tab-line-color: red !important;
   --lwt-text-color: rgb(var(--dtui-theme-text-color)) !important;
   --lwt-sidebar-background-color: rgb(var(--dtui-theme-main-color)) !important;
   --lwt-sidebar-text-color: rgb(var(--dtui-theme-text-color)) !important;

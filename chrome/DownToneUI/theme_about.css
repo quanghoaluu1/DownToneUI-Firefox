@@ -25,6 +25,7 @@ url-prefix("about:welcome"),   url-prefix("chrome:") {{}
     --focus-outline-width: var(--dtui-theme-border-width) !important;
     --newtab-background-color: rgb(var(--dtui-theme-main-color)) !important;
     --newtab-background-color-secondary: rgb(var(--dtui-theme-secondary-color)) !important;;
+    
     --newtab-text-primary-color: rgb(var(--dtui-theme-text-color)) !important;
     --color-accent-primary: rgb(var(--dtui-theme-accent-color)) !important;
     --color-accent-primary-hover: rgba(var(--dtui-theme-accent-color), var(--dtui-theme-accent-mid-alpha)) !important;

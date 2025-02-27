@@ -1,0 +1,15 @@
+#navigator-toolbox {
+    background: rgba(255, 255, 255, 0.2) !important; /* Màu nền với độ trong suốt */
+    backdrop-filter: blur(10px) !important; /* Hiệu ứng mờ */
+}
+
+/* Nếu muốn chỉnh cả thanh tab */
+#TabsToolbar {
+    background: rgba(255, 255, 255, 0.2) !important;
+    backdrop-filter: blur(10px) !important;
+}
+
+/* Nếu muốn ẩn viền xung quanh toolbar */
+#nav-bar {
+    border: none !important;
+}

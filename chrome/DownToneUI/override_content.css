@@ -1,0 +1,12 @@
+/* * {
+  --newtab-wallpaper-dark: url("https://i.pinimg.com/originals/40/53/97/4053972724e06696425c31dd15f9ea34.jpg") !important;
+  --newtab-wallpaper-light: url("https://i.pinimg.com/originals/40/53/97/4053972724e06696425c31dd15f9ea34.jpg") !important;
+} */
+@-moz-document url("about:newtab"), url("about:home") {
+body {
+  background-image: url("https://4kwallpapers.com/images/wallpapers/marvels-spider-man-2880x1800-9850.jpg") !important;
+}
+.search-inner-wrapper, .top-site-outer {
+  opacity: 0.5  !important;
+}
+}
